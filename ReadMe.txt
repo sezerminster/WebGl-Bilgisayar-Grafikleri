@@ -1,0 +1,1 @@
+Buradaki dosyaları indirdikten sonra aynı klasör içine koyup çalıştırın. İsminizin Baş harfi ve soyadınızın son harfi adlı çalışmam bu şekildedir.Bu bir WebGL projesidir.
